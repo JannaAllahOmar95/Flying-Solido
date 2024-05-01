@@ -1,0 +1,11 @@
+1- I made the main menue with two buttons 
+- Start game
+- Exit game
+
+2- I instantiate the enemy with two range one for attaking the player
+and the other for moving forward to the player.
+
+3- Wehn the enemy attack the player, the player loses health.
+
+4- When the player attack the enemy, the enemy loses health and the 
+player win score points.
